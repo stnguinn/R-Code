@@ -1,0 +1,2 @@
+# simple code to run a scatter plot using mtcars taht comes with ggplot2 library in R
+qplot(x = mpg, y = wt, data = mtcars, colour = cyl)
