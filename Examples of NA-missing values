@@ -1,0 +1,12 @@
+# Create two variables
+> num1 = NA
+> num2 = 5
+> # Check if they are NA
+> is.na(num1)
+[1] TRUE
+> is.na(num2)
+[1] FALSE
+> 
+> #try adding the two numbers
+> num1 + num2
+[1] NA
