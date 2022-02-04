@@ -1,0 +1,11 @@
+> # Does 5 equal 4?
+> 5 == 4
+[1] FALSE
+
+# Is 10 less than or equal to 11?
+ 10 <= 11
+[1] TRUE
+
+# Does TRUE not equal TRUE?
+> TRUE != TRUE
+[1] FALSE
