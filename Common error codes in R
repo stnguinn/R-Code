@@ -1,0 +1,4 @@
+Common error codes you may see in R and what they mean:
+1. Variable Type: Doing math on a non-numeric varibles will often give you an error, most with dates, text strings, and so on.
+2. Syntax. Make sure and check for missing commas, missing parentheses, also check for proper upper and lower case when items are case sensitive.
+
