@@ -1,0 +1,5 @@
+# Matrix Vector (2 deminsional rows and colums)
+
+mat <- matrix(0, nrow = 2, ncol = 2)
+
+
