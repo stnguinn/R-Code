@@ -1,0 +1,9 @@
+# c function in R
+# Combine multible vectors/values together
+char_vec <- c('Is R interesting?', 'Yes it is' , 'a')
+
+# Combine two vectors into one
+
+num_vec1 <- c(3,4)
+num_vec2 <- c(10,20)
+num_vec3 <- c(num_vec1, num_vec2)
