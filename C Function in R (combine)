@@ -1,6 +1,8 @@
 # c function in R
 # Combine multible vectors/values together
 char_vec <- c('Is R interesting?', 'Yes it is' , 'a')
+logical_vec <- c(TRUE,FALSE,TRUE,FALSE,FALSE)
+num_v <- c(5,10)
 
 # Combine two vectors into one
 
