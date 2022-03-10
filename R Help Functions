@@ -14,4 +14,8 @@ data()
 vignette ()
 
 # Displaysspecific vignettes for topic foo
-vignette ("foo")        
+vignette ("foo") 
+
+
+# ?"function name" to receive R help for a function
+# ex: ??ggplot
