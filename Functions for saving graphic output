@@ -1,0 +1,14 @@
+# BMP File
+bmp("filename.bmp")
+
+# JPEG File
+jpeg("file.namejpg")
+
+# PDF File
+pdf("filename.pdf")
+
+#PNG File
+png("file.name.png")
+
+# Postscript File
+postscript("filename.ps")
