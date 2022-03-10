@@ -1,0 +1,30 @@
+# Lists the current working directory
+getwd ()
+
+# Changes the current working directory to mydirectory
+setwd ("mydirectory")
+
+# Removes (deletes) one or more objects
+rm (objectlist)
+
+# Lets you veiw or set current options
+options ()
+
+# Displays your last # commands (default = 25)
+history (#)
+
+# Saves the commands history to myfile (default = .Rhistory)
+savehistory ("myfile")
+
+# Reloads a commands history (default = Rhistory)
+loadhistory ("myfile")
+
+# Saves the workspace to myfile (default = .Rdata)
+save.image ("myfile")
+
+#Loads a workspace into the current session
+load("myfile")
+
+# Quits R. Youll be promted to save the workspace
+q()
+
