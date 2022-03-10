@@ -1,0 +1,17 @@
+# General Help
+help.start()
+
+# Help on function foo (quotation marks optional)
+help.search("foo") or just ??foo
+
+# Examples of function foo
+example ("foo")
+
+# Lists all avalible example data sets contained in currently loaded packages
+data()
+
+# Lists all avalible vignettes for currently installed packages
+vignette ()
+
+# Displaysspecific vignettes for topic foo
+vignette ("foo")        
